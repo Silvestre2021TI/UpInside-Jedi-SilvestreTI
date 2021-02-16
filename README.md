@@ -30,24 +30,13 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 
 #### [13. Ambiente Local com Docker 15 / 10](https://www.upinside.com.br/certificados/5572970202005)
 
-
-## [Fonte: Perfil OSF no Facebook Acesso em 12 de julho de 2020](https://www.facebook.com/SilvestreOSF/posts/4003349686401752)
-
-
-## Formações Posteriores:
-
 #### [14. CSS Produtivo com SASS de carga horária estimada em 10 horas, realizando 10 de 10 atividades, no período de 14/08/2020 a 14/09/2020.](https://www.upinside.com.br/certificados/5572969202009)
-![UpInside CSS Produtivo com SASS](https://user-images.githubusercontent.com/76437195/104111197-9c505280-52b5-11eb-8e5c-93fc6431bfab.jpg) 
 
 #### [15. MariaDB Essentials de carga horária estimada em 30 horas, realizando 66 de 66 atividades, no período de 14/09/2020 a 10/10/2020.](https://www.upinside.com.br/certificados/5572949202010)
-![UpInside MariaDB essentials](https://user-images.githubusercontent.com/76437195/104112101-04f0fc80-52c1-11eb-9f0b-d2404e9a7a92.jpg) 
 
 #### [16. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
-![UpInside ActiveCampaign](https://user-images.githubusercontent.com/76437195/104112093-e854c480-52c0-11eb-8c4d-8053ffe7e1d7.jpg) 
 
 #### [17. Facebook Ads de carga horária estimada em 35 horas, realizando 50 de 50 atividades, no período de 18/09/2020 a 15/10/2020.](https://www.upinside.com.br/certificados/5572944202010)
-![UpInside Facebook ADS](https://user-images.githubusercontent.com/76437195/104112098-f60a4a00-52c0-11eb-81fa-ed82fb0004ed.jpg)
-
 
 # Primeiras 13 Formações:
 
@@ -89,3 +78,17 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 
 #### [13. Ambiente Local com Docker de carga horária estimada em 10 horas, realizando 15 de 15 atividades, no período de 28/04/2020 a 07/05/2020.](https://www.upinside.com.br/certificados/5572970202005)
 ![UpInside 13 Ambiente Local com Docker](https://user-images.githubusercontent.com/76437195/104111187-8d69a000-52b5-11eb-8c25-17006921bd9a.jpg)
+
+#### [14. CSS Produtivo com SASS de carga horária estimada em 10 horas, realizando 10 de 10 atividades, no período de 14/08/2020 a 14/09/2020.](https://www.upinside.com.br/certificados/5572969202009)
+![UpInside CSS Produtivo com SASS](https://user-images.githubusercontent.com/76437195/104111197-9c505280-52b5-11eb-8e5c-93fc6431bfab.jpg) 
+
+#### [15. MariaDB Essentials de carga horária estimada em 30 horas, realizando 66 de 66 atividades, no período de 14/09/2020 a 10/10/2020.](https://www.upinside.com.br/certificados/5572949202010)
+![UpInside MariaDB essentials](https://user-images.githubusercontent.com/76437195/104112101-04f0fc80-52c1-11eb-9f0b-d2404e9a7a92.jpg) 
+
+#### [16. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
+![UpInside ActiveCampaign](https://user-images.githubusercontent.com/76437195/104112093-e854c480-52c0-11eb-8c4d-8053ffe7e1d7.jpg) 
+
+#### [17. Facebook Ads de carga horária estimada em 35 horas, realizando 50 de 50 atividades, no período de 18/09/2020 a 15/10/2020.](https://www.upinside.com.br/certificados/5572944202010)
+![UpInside Facebook ADS](https://user-images.githubusercontent.com/76437195/104112098-f60a4a00-52c0-11eb-81fa-ed82fb0004ed.jpg)
+
+
