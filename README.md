@@ -1,6 +1,6 @@
 # Formação de Profissionais Jedi da UpInside de #SilvestreTI 
 
-Listados e Concluĩdos 17 Cursos, Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI 
+Listados 17 Cursos, Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI 
 
 ## Cursos #UpInside (Atividades / Horas)
 
