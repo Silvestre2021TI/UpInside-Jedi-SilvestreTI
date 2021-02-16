@@ -1,6 +1,6 @@
 # Formação de Profissionais Jedi da UpInside de #SilvestreTI 
 
-Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI 
+Listados e Concluĩdos 17 Cursos, Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI 
 
 ## Cursos #UpInside (Atividades / Horas)
 
